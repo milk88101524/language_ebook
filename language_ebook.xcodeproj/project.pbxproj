@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		339131632C4A46DA0080B184 /* lauguage_ebook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lauguage_ebook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		339131632C4A46DA0080B184 /* language_ebook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = language_ebook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		339131662C4A46DA0080B184 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		339131682C4A46DA0080B184 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		3391316A2C4A46DA0080B184 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		3391315A2C4A46DA0080B184 = {
 			isa = PBXGroup;
 			children = (
-				339131652C4A46DA0080B184 /* lauguage_ebook */,
+				339131652C4A46DA0080B184 /* language_ebook */,
 				339131642C4A46DA0080B184 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		339131642C4A46DA0080B184 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				339131632C4A46DA0080B184 /* lauguage_ebook.app */,
+				339131632C4A46DA0080B184 /* language_ebook.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		339131652C4A46DA0080B184 /* lauguage_ebook */ = {
+		339131652C4A46DA0080B184 /* language_ebook */ = {
 			isa = PBXGroup;
 			children = (
 				339131662C4A46DA0080B184 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				339131712C4A46DC0080B184 /* LaunchScreen.storyboard */,
 				339131742C4A46DC0080B184 /* Info.plist */,
 			);
-			path = lauguage_ebook;
+			path = language_ebook;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		339131622C4A46DA0080B184 /* lauguage_ebook */ = {
+		339131622C4A46DA0080B184 /* language_ebook */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 339131772C4A46DC0080B184 /* Build configuration list for PBXNativeTarget "lauguage_ebook" */;
+			buildConfigurationList = 339131772C4A46DC0080B184 /* Build configuration list for PBXNativeTarget "language_ebook" */;
 			buildPhases = (
 				3391315F2C4A46DA0080B184 /* Sources */,
 				339131602C4A46DA0080B184 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = lauguage_ebook;
+			name = language_ebook;
 			productName = lauguage_ebook;
-			productReference = 339131632C4A46DA0080B184 /* lauguage_ebook.app */;
+			productReference = 339131632C4A46DA0080B184 /* language_ebook.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3391315E2C4A46DA0080B184 /* Build configuration list for PBXProject "lauguage_ebook" */;
+			buildConfigurationList = 3391315E2C4A46DA0080B184 /* Build configuration list for PBXProject "language_ebook" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				339131622C4A46DA0080B184 /* lauguage_ebook */,
+				339131622C4A46DA0080B184 /* language_ebook */,
 			);
 		};
 /* End PBXProject section */
@@ -294,7 +294,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G5VW789KD2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = lauguage_ebook/Info.plist;
+				INFOPLIST_FILE = language_ebook/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -305,7 +305,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.lauguage-ebook";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.language-ebook";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -322,7 +322,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = G5VW789KD2;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = lauguage_ebook/Info.plist;
+				INFOPLIST_FILE = language_ebook/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -333,7 +333,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.example.lauguage-ebook";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.example.language-ebook";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -344,7 +344,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3391315E2C4A46DA0080B184 /* Build configuration list for PBXProject "lauguage_ebook" */ = {
+		3391315E2C4A46DA0080B184 /* Build configuration list for PBXProject "language_ebook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				339131752C4A46DC0080B184 /* Debug */,
@@ -353,7 +353,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		339131772C4A46DC0080B184 /* Build configuration list for PBXNativeTarget "lauguage_ebook" */ = {
+		339131772C4A46DC0080B184 /* Build configuration list for PBXNativeTarget "language_ebook" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				339131782C4A46DC0080B184 /* Debug */,
